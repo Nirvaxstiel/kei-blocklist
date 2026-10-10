@@ -1,0 +1,13 @@
+login.vivaldi.net
+bifrost.vivaldi.com
+mtalk.google.com
+update.vivaldi.com
+update.googleapis.com
+clients2.google.com
+redirector.gvt1.com
+safebrowsing.google.com
+mimir2.vivaldi.com
+weather.vivaldi.com
+clients.l.google.com
+vivaldi.map.fastly.net
+content-autofill.googleapis.com
