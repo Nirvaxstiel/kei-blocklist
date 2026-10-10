@@ -11,7 +11,7 @@ This is an ongoing personal project. Its contents may change as I investigate so
 
 Add the following URL to your DNS filtering software's blocklist subscriptions:
 
-https://raw.githubusercontent.com/nirvaxstiel/kei-blocklist/master/vivaldi-telemetry.txt
+https://raw.githubusercontent.com/Nirvaxstiel/kei-blocklist/refs/heads/master/vivaldi-telemetry.txt
 
 For Pi-hole, add the URL under **Lists / Adlists**, then update Gravity.
 
